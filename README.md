@@ -2,6 +2,8 @@
 
 - for the moment I've managed Python and PHP but currently I've decided stayed with Java
 - 🌱 I’m currently learning Spring, a Java Framework
+
+- ⚡ I wait you have a fun around my repositories. Welcome!
 <!--
 **yipson/yipson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

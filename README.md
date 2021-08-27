@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sebastian Valencia, a backend developer (with knowledge about frontend) and technology lover
 
 - for the moment I've managed Python and PHP but currently I've decided stayed with Java
-- 🌱 I’m currently learning Spring, a Java Framework
+- 🌱 I’m currently learning Spring and Spring Boot
 
 - ⚡ I wait you have a fun around my repositories. Welcome!
 <!--

@@ -2,7 +2,7 @@
 
 - At the moment I've worked with Java and Python. Currently I've decided stayed with Java and its Spring Boot framework
 - 🌱 I’m currently doing Spring Boot projects
-- 📚 I'm learning about microservices
+- 📚 I'm working with microservices
 
 - ⚡ I wait you have a fun around my repositories. Welcome!
 <!--

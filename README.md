@@ -1,10 +1,7 @@
 ### Hi there 👋 I'm Sebastian Valencia, a backend developer (with knowledge about frontend) and technology lover
 
 - At the moment I've worked with Java and Python. Currently I've decided stayed with Java and its Spring Boot framework
-- 🌱 I’m currently doing Spring Boot projects
-- 📚 I'm working with microservices
-
-- ⚡ I wait you have a fun around my repositories. Welcome!
+- ⚡ I hope you have a fun around my repositories. Welcome!
 <!--
 **yipson/yipson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
